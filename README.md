@@ -12,7 +12,7 @@ Accepted paper in IEEE Trans on Multimedia, 'Noise-Sensitive Adversarial Learnin
 * Python 3.6.5
 
 ### Training data
-
+link: https://pan.baidu.com/s/1n4YGVRhNabM5td4et9o5sw    code: wnvl
 ### Testing datasets
 
 ##Training
