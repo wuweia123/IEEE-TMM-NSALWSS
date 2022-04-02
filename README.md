@@ -21,7 +21,7 @@ Accepted paper in IEEE Trans on Multimedia, 'Noise-Sensitive Adversarial Learnin
 ### 1st training stage
 Case1 : Update soon
 Case2 : We upload our 1st pseudo labels in Training data, you can directly use our offered <stage1_training_map> as pseudo labels for convenience. 
-------------------------------------
+
 ### 2nd training stage
 #### setting the training data to the proper root as follows:
 
