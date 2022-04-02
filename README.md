@@ -5,7 +5,6 @@ Accepted paper in IEEE Trans on Multimedia, 'Noise-Sensitive Adversarial Learnin
 ![framework](https://github.com/wuweia123/IEEE-TMM-NSALWSS/blob/main/fig/framework.png)
 
 ## Prerequisites
---------------------------------
 ### Environment
 * Windows 10
 * Torch 1.4.0
@@ -17,7 +16,6 @@ Accepted paper in IEEE Trans on Multimedia, 'Noise-Sensitive Adversarial Learnin
 ### Testing datasets
 
 ##Training
-------------------------------------
 ### 1st training stage
 Case1 : Update soon
 Case2 : We upload our 1st pseudo labels in Training data, you can directly use our offered <stage1_training_map> as pseudo labels for convenience. 
