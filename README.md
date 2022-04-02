@@ -34,8 +34,9 @@ NSALWSS -- datasets -- DUTS_pseudo -- DUTS-TR-Image -- 10553 samples
 ```
 
 #### training
+
 ```Run train.py```
------------------------------------------------
+
 ## testing
 ```Run test_code.py```
 You need to configure your desired testset in ```--test_root```
