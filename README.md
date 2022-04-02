@@ -26,9 +26,9 @@ Case2 : We upload our 1st pseudo labels in Training data, you can directly use o
 ```
 NSALWSS -- datasets -- DUTS_pseudo -- DUTS-TR-Image -- 10553 samples
                 
-                -- pseudo labels -- stage1_training_map -- 10553 pseudo labels
+                                   -- stage1_training_map -- 10553 pseudo labels
                 
-                                 -- stage2_training_map -- 10553 pseudo labels (not necessary but we also offered stage2's pseudo labels for convenience)
+                                   -- stage2_training_map -- 10553 pseudo labels (not necessary but we also offered stage2's pseudo labels for convenience)
 ```
 
 #### training
