@@ -13,7 +13,6 @@ Accepted paper in IEEE Trans on Multimedia, 'Noise-Sensitive Adversarial Learnin
 
 ### Training data
 link: https://pan.baidu.com/s/1n4YGVRhNabM5td4et9o5sw    code: wnvl
-### Testing datasets
 
 ##Training
 ### 1st training stage
@@ -44,9 +43,9 @@ The evaluation code can be found in [here](https://github.com/jiwei0921/Saliency
 ## Saliency maps & Checkpoint
 We offer our saliency maps and checkpoints.
 ### Saliency maps
-
+link: https://pan.baidu.com/s/1Dyhy107oQTow1UN1Wg9-KA    code: 1kfn
 ### Checkpoints
-
+link: https://pan.baidu.com/s/1aMwHkQb-9C2YmM_P-j8f-A    code: 32fi
 ## Contact me
 If you have any questions, please contact me: [1157008667@qq.com].
 
