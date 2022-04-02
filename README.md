@@ -17,6 +17,7 @@ link: https://pan.baidu.com/s/1n4YGVRhNabM5td4et9o5sw    code: wnvl
 ## Training
 ### 1st training stage
 Case1 : Update soon
+
 Case2 : We upload our 1st pseudo labels in Training data, you can directly use our offered <stage1_training_map> as pseudo labels for convenience. 
 
 ### 2nd training stage
